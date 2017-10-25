@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"HelloWorld\"\noutput: html_document\n---\n## This is a markdown file\n\nlibrary(rmarkdown)\nrender(\"HelloWorld.rmd\")",
+    "created" : 1508969893915.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "169026259",
+    "id" : "594406B7",
+    "lastKnownWriteTime" : 1508970092,
+    "last_content_update" : 1508970202478,
+    "path" : "H:/datasciencecoursera/HelloWorld.Rmd",
+    "project_path" : "HelloWorld.Rmd",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
